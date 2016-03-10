@@ -1,4 +1,37 @@
-/* Empty. Add your own CSS if you like */
+/* HEADER */
+
+.title {
+  background-color: #2d5f84;
+  color: white;
+  font-family: 'Oleo Script', cursive;
+
+
+
+}
+
+.header-item {
+  color: white;
+
+  font-size: 24px;
+}
+
+/* PADDING */
+
+.padding {
+
+  background-color: #f0f0f0;
+
+
+
+}
+/* CARD */
+
+.item {
+  color: white;
+}
+
+/* PROFILE */
+
 .profile ul {
 
     list-style-type: none;
