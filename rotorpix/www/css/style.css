@@ -1,17 +1,15 @@
 /* HEADER */
 
-.title {
+.bar {
   background-color: #2d5f84;
+
   color: white;
+
   font-family: 'Oleo Script', cursive;
-
-
 
 }
 
-.header-item {
-  color: white;
-
+.title {
   font-size: 24px;
 }
 
@@ -24,12 +22,15 @@
 
 
 }
-/* CARD */
+/* DASH */
 
 .item {
   color: white;
 }
 
+.like {
+  color: #0c60ee;
+}
 /* PROFILE */
 
 .profile ul {
@@ -60,9 +61,9 @@
 
     float: left;
 
-    border: 5px solid #fff;
+    border: 1px solid #fff;
 
-    width: 30%;
+    width: 50%;
 
     height: 10%;
 
